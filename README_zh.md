@@ -6,6 +6,7 @@
 Yinrui Ren · Dongli Wu · Haoang Li · Hui Xiong · Wufan Zhao</p>
 
 <p>
+<img src="https://img.shields.io/badge/NeurIPS-2026-68438C" alt="NeurIPS 2026">
 <a href="https://github.com/Jou719/GeoPano"><img src="https://img.shields.io/badge/Code-GitHub-181717" alt="Code"></a>
 <a href="https://arxiv.org/abs/2610.21297"><img src="https://img.shields.io/badge/Paper-arXiv-b31b1b" alt="Paper"></a>
 <a href="https://huggingface.co/ouou123/GeoPano"><img src="https://img.shields.io/badge/🤗-Model-yellow" alt="Model weights"></a>
